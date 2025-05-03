@@ -22,7 +22,7 @@ A modern React-based image gallery web application that uses the Pexels API to l
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/pixelperfect-gallery.git
+   git clone git@github.com:waqasNaseer499/PixelPerfect-Gallery.git
    cd pixelperfect-gallery
    ```
 
