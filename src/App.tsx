@@ -3,7 +3,6 @@ import {
   Search,
   Heart,
   HeartOff,
-  X,
   ChevronLeft,
   ChevronRight,
   Loader,
